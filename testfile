@@ -1,1 +1,2 @@
- test file
+ t push -u origin master
+test file
